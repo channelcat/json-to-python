@@ -1,0 +1,9 @@
+{
+  "python.formatting.provider": "black",
+  "python.formatting.blackArgs": ["--line-length", "120"],
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "python.linting.enabled": true,
+  "python.linting.mypyEnabled": true,
+  "prettier.disableLanguages": ["yaml"]
+}
